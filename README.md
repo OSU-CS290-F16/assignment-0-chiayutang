@@ -3,9 +3,9 @@
 
 Name: `CHia-Yu Tang`
 
-ONID ID: `932790081`
+ONID ID: `tangchia@oregonstate.edu`
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `web.engr.oregonstate.edu/~hessro/teaching/cs290-f16/`
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
